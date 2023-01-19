@@ -1,0 +1,18 @@
+{
+    "name": "viriusapi/viri",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Viriapi\\Viri\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhamad Ariq Azis A.",
+            "email": "ariqaziz74@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
